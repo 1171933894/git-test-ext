@@ -18,5 +18,6 @@ public class Test8 {
         System.out.println ("hello reflog5 !");
         System.out.println ("hello reflog6 !");
         System.out.println ("hello reflog7 !");
+        System.out.println ("hello reflog8 !");
     }
 }
