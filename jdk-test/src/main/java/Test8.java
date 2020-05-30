@@ -11,7 +11,9 @@ public class Test8 {
         System.out.println ("hello world!");
         System.out.println ("hello world!");
         System.out.println ("hello git !");
-        System.out.println ("hello reflog !");
-        System.out.println ("hello reflog !");
+        System.out.println ("hello reflog1 !");
+        System.out.println ("hello reflog2 !");
+        System.out.println ("hello reflog3 !");
+        System.out.println ("hello reflog4 !");
     }
 }
