@@ -10,5 +10,7 @@ public class Test0 {
         System.out.println ("345");
         System.out.println ("456");
         System.out.println ("567");
+        System.out.println ("789");
+        System.out.println ("789");
     }
 }
