@@ -14,5 +14,6 @@ public class Test {
         System.out.println ("test");
         System.out.println ("stash");
         System.out.println ("stash1");
+        System.out.println ("stash2");
     }
 }
