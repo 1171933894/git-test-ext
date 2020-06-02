@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="233">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -160,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591107728155" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591107982603" />
     <property name="jdk.selected.JAVA_MODULE" value="1.6" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -465,11 +465,32 @@
       <option name="project" value="LOCAL" />
       <updated>1591107302970</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="test c 1">
+      <created>1591107667962</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1591107667962</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Revert &quot;test c 1&quot;&#10;&#10;This reverts commit 21a4dd32ab8d00416108a5816932ac55fc3c47de.&#10;&#10;# Conflicts:&#10;#&#9;jdk-test/src/main/java/Test1.java">
+      <created>1591107902336</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1591107902336</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Revert &quot;test c 1&quot;&#10;&#10;This reverts commit 21a4dd32ab8d00416108a5816932ac55fc3c47de.&#10;&#10;# Conflicts:&#10;#&#9;jdk-test/src/main/java/Test1.java">
+      <created>1591107925659</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1591107925659</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31758000" />
+    <option name="totallyTimeSpent" value="32079000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -484,12 +505,12 @@
     <frame x="532" y="83" width="1082" height="892" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.33496094" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988662" visible="true" weight="0.33496094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="JRebel" order="5" sideWeight="0.5030303" side_tool="true" visible="true" weight="0.33496094" />
+      <window_info id="JRebel" order="5" sideWeight="0.5011338" side_tool="true" visible="true" weight="0.33496094" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -500,13 +521,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298292" />
       <window_info anchor="bottom" id="Duplication Code Results" order="7" weight="0.325887" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49804688" weight="0.42049935" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49804688" visible="true" weight="0.42049935" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Sequence" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5019531" side_tool="true" weight="0.42049935" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50390625" side_tool="true" weight="0.56636006" />
       <window_info anchor="bottom" id="MyBatis Log" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" sideWeight="0.4968051" visible="true" weight="0.56636006" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49609375" weight="0.56636006" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" weight="0.3298292" />
       <window_info anchor="bottom" id="Messages" order="17" weight="0.32861635" />
@@ -609,7 +630,8 @@
     <MESSAGE value="sit cp 1" />
     <MESSAGE value="sit cp 2" />
     <MESSAGE value="test c 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test c 1" />
+    <MESSAGE value="Revert &quot;test c 1&quot;&#10;&#10;This reverts commit 21a4dd32ab8d00416108a5816932ac55fc3c47de.&#10;&#10;# Conflicts:&#10;#&#9;jdk-test/src/main/java/Test1.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;test c 1&quot;&#10;&#10;This reverts commit 21a4dd32ab8d00416108a5816932ac55fc3c47de.&#10;&#10;# Conflicts:&#10;#&#9;jdk-test/src/main/java/Test1.java" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test22.java" />
@@ -666,8 +688,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="233">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
