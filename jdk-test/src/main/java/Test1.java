@@ -16,7 +16,6 @@ public class Test1 {
         System.out.println ("stash1");
         System.out.println ("stash2");
         System.out.println ("stash4");
-        System.out.println ("stash5");
         System.out.println ("stash6");
     }
 }
