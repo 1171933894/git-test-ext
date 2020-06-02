@@ -13,5 +13,6 @@ public class Test {
         System.out.println ("sit");
         System.out.println ("test");
         System.out.println ("stash");
+        System.out.println ("stash1");
     }
 }
