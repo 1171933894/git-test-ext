@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c27bfedd-c888-47d8-9220-6ec3616490d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/jdk-test/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk-test/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk-test/src/main/java/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk-test/src/main/java/Test1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/jdk-test/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
               <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -72,8 +81,6 @@
         <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test22.java" />
         <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test44.java" />
         <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test33.java" />
-        <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test1.java" />
-        <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test2.java" />
         <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test4.java" />
         <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test3.java" />
         <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test5.java" />
@@ -83,6 +90,8 @@
         <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test0.java" />
         <option value="$PROJECT_DIR$/jdk-test/test.txt" />
         <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test2.java" />
+        <option value="$PROJECT_DIR$/jdk-test/src/main/java/Test1.java" />
       </list>
     </option>
   </component>
@@ -151,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591107153533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591107728155" />
     <property name="jdk.selected.JAVA_MODULE" value="1.6" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -442,11 +451,25 @@
       <option name="project" value="LOCAL" />
       <updated>1591100853004</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="test c 1">
+      <created>1591107258471</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1591107258471</updated>
+    </task>
+    <task id="LOCAL-00035" summary="test c 1">
+      <created>1591107302970</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1591107302970</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31290000" />
+    <option name="totallyTimeSpent" value="31758000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,12 +484,12 @@
     <frame x="532" y="83" width="1082" height="892" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988662" visible="true" weight="0.33496094" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.33496094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="JRebel" order="5" sideWeight="0.5011338" side_tool="true" visible="true" weight="0.33496094" />
+      <window_info id="JRebel" order="5" sideWeight="0.5030303" side_tool="true" visible="true" weight="0.33496094" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -477,13 +500,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298292" />
       <window_info anchor="bottom" id="Duplication Code Results" order="7" weight="0.325887" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49804688" visible="true" weight="0.42049935" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49804688" weight="0.42049935" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Sequence" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5019531" side_tool="true" weight="0.500657" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5019531" side_tool="true" weight="0.42049935" />
       <window_info anchor="bottom" id="MyBatis Log" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4968051" weight="0.56636006" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" sideWeight="0.4968051" visible="true" weight="0.56636006" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" weight="0.3298292" />
       <window_info anchor="bottom" id="Messages" order="17" weight="0.32861635" />
@@ -595,8 +618,6 @@
     <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test11.java" />
     <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test10.java" />
     <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test7.java" />
-    <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test2.java" />
-    <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test1.java" />
     <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test4.java" />
     <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test3.java" />
     <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test5.java" />
@@ -633,6 +654,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdk-test/src/main/java/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
         </state>
       </provider>
     </entry>
